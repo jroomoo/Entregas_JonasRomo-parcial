@@ -22,6 +22,7 @@ public class Person {
 
     // Métodos logica de negocio
     public Float getIMC() {
+        heightInMeters = heightInMeters / 100; 
         return (weigthInKg / (heightInMeters*heightInMeters));
     }
     // GETTERS Y SETTERS
