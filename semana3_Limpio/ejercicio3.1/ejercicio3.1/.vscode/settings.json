@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Pablo\\OneDrive\\Escritorio\\Usal\\3\\Programación III\\Ejercicios_limpio\\biblioteca11.jar"
+    ]
+}
