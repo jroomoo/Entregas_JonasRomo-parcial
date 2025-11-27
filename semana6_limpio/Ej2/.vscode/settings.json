@@ -3,7 +3,6 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Pablo\\OneDrive\\Escritorio\\Usal\\3\\Programación III\\Ejercicios_limpio\\Entregas_JonasRomo-parcial\\biblioteca11.jar",
         "c:\\Users\\jonas\\Desktop\\Universidad\\3\\EnlacesGit\\Entregas_JonasRomo-parcial\\biblioteca11.jar"
     ]
 }
